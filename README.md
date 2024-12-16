@@ -9,18 +9,23 @@
   <table>
     <tr>
       <th>Nama Anggota</th>
+      <th>Tahun</th>
     </tr>
     <tr>
-      <td>Nama Anggota 1</td>
+      <td>Zaidan</td>
+      <td>2021</td>
     </tr>
     <tr>
-      <td>Nama Anggota 2</td>
+      <td>Hilmi</td>
+      <td>2022</td>
     </tr>
     <tr>
-      <td>Nama Anggota 3</td>
+      <td>Naufal</td>
+      <td>2023</td>
     </tr>
   </table>
 </p>
+
 
 ### Deskripsi
 

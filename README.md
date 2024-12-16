@@ -5,29 +5,27 @@
 <h1 align="center">Analisis Data Spotify</h1>
 
 ---
-<p align="center">
-  <div style="display: table; margin: auto;">
-    <table border="1">
-      <tr>
-        <th>Nama Anggota</th>
-        <th>Tahun</th>
-      </tr>
-      <tr>
-        <td>Zaidan</td>
-        <td>2021</td>
-      </tr>
-      <tr>
-        <td>ardi</td>
-        <td>2022</td>
-      </tr>
-      <tr>
-        <td>majeng</td>
-        <td>2023</td>
-      </tr>
-    </table>
-  </div>
-</p>
 
+<p align="center">
+  <table border="1" style="margin: auto;">
+    <tr>
+      <th>Nama Anggota</th>
+      <th>Tahun</th>
+    </tr>
+    <tr>
+      <td>Zaidan</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td>Ardi</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Majeng</td>
+      <td>2023</td>
+    </tr>
+  </table>
+</p>
 
 ### Deskripsi
 

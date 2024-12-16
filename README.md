@@ -7,24 +7,11 @@
 ---
 
 <p align="center">
-  <table border="1" style="margin: auto;">
-    <tr>
-      <th>Nama Anggota</th>
-      <th>Tahun</th>
-    </tr>
-    <tr>
-      <td>Zaidan</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Ardi</td>
-      <td>2022</td>
-    </tr>
-    <tr>
-      <td>Majeng</td>
-      <td>2023</td>
-    </tr>
-  </table>
+  <ul style="list-style-type: none; padding: 0; text-align: center;">
+    <li><strong>Nama Anggota</strong>: Zaidan, <strong>Tahun</strong>: 2021</li>
+    <li><strong>Nama Anggota</strong>: Ardi, <strong>Tahun</strong>: 2022</li>
+    <li><strong>Nama Anggota</strong>: Majeng, <strong>Tahun</strong>: 2023</li>
+  </ul>
 </p>
 
 ### Deskripsi

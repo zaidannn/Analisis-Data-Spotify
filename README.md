@@ -5,6 +5,22 @@
 <h1 align="center">Analisis Data Spotify</h1>
 
 ---
+<p align="center">
+  <table>
+    <tr>
+      <th>Nama Anggota</th>
+    </tr>
+    <tr>
+      <td>Nama Anggota 1</td>
+    </tr>
+    <tr>
+      <td>Nama Anggota 2</td>
+    </tr>
+    <tr>
+      <td>Nama Anggota 3</td>
+    </tr>
+  </table>
+</p>
 
 ### Deskripsi
 

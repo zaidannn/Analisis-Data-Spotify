@@ -8,11 +8,13 @@
 
 <h3 align="center">Angota Kelompok</h3>
 
-<ul style="list-style-type: none; padding: 0; text-align: center;">
-  <li><strong>Nama</strong>: Zaidan, <strong>Tahun</strong>: 2021</li>
-  <li><strong>Nama</strong>: Ardi, <strong>Tahun</strong>: 2022</li>
-  <li><strong>Nama</strong>: Majeng, <strong>Tahun</strong>: 2023</li>
-</ul>
+<p align="center">
+  <ul style="list-style-type: none; padding: 0; text-align: center; display: inline-block;">
+    <li><strong>Nama</strong>: Zaidan, <strong>Tahun</strong>: 2021</li>
+    <li><strong>Nama</strong>: Ardi, <strong>Tahun</strong>: 2022</li>
+    <li><strong>Nama</strong>: Majeng, <strong>Tahun</strong>: 2023</li>
+  </ul>
+</p>
 
 ### Deskripsi
 

@@ -6,26 +6,28 @@
 
 ---
 <p align="center">
-<p align="center">
-  <table style="margin-left:auto; margin-right:auto;">
-    <tr>
-      <th>Nama Anggota</th>
-      <th>Tahun</th>
-    </tr>
-    <tr>
-      <td>Zaidan</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>zdn</td>
-      <td>2022</td>
-    </tr>
-    <tr>
-      <td>Naufal</td>
-      <td>2023</td>
-    </tr>
-  </table>
+  <div style="display: table; margin: auto;">
+    <table border="1">
+      <tr>
+        <th>Nama Anggota</th>
+        <th>Tahun</th>
+      </tr>
+      <tr>
+        <td>Zaidan</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>Hilmi</td>
+        <td>2022</td>
+      </tr>
+      <tr>
+        <td>Naufal</td>
+        <td>2023</td>
+      </tr>
+    </table>
+  </div>
 </p>
+
 
 ### Deskripsi
 
@@ -36,28 +38,6 @@ Data yang digunakan dalam proyek ini bertujuan untuk mengeksplorasi dan mengklas
 
 <p align="justify">
 Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran menyeluruh tentang karakteristik audio dan informasi pendukung lainnya. Variabel-variabel tersebut mencakup nama lagu (<em>track_name</em>), nama artis (<em>artist_name</em>), ID lagu (<em>track_id</em>), nama album (<em>album_name</em>), dan berbagai fitur audio seperti <em>danceability</em>, <em>energy</em>, <em>valence</em>, <em>tempo</em>, dan <em>loudness</em>. Selain itu, dataset ini juga memuat informasi tentang genre dan tingkat popularitas lagu, memberikan konteks tambahan untuk analisis yang lebih dalam. Dengan kombinasi data ini, proyek bertujuan untuk menggali wawasan baru mengenai pola dan tren musik, mengklasifikasikan lagu berdasarkan karakteristik uniknya, serta memberikan interpretasi yang relevan terhadap industri musik modern.
-</p>
-
-<p align="center">
-<p align="center">
-  <table style="margin-left:auto; margin-right:auto;">
-    <tr>
-      <th>Nama Anggota</th>
-      <th>Tahun</th>
-    </tr>
-    <tr>
-      <td>Zaidan</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>zdn</td>
-      <td>2022</td>
-    </tr>
-    <tr>
-      <td>Naufal</td>
-      <td>2023</td>
-    </tr>
-  </table>
 </p>
 
 ### Fitur

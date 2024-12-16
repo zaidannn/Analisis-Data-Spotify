@@ -17,11 +17,11 @@
         <td>2021</td>
       </tr>
       <tr>
-        <td>Hilmi</td>
+        <td>ardi</td>
         <td>2022</td>
       </tr>
       <tr>
-        <td>Naufal</td>
+        <td>majeng</td>
         <td>2023</td>
       </tr>
     </table>

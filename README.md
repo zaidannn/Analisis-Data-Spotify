@@ -7,7 +7,7 @@
 ---
 
 ### Deskripsi
-Proyek ini bertujuan untuk menganalisis data Spotify guna memberikan wawasan tentang tren musik, perilaku pengguna, dan metrik lain yang relevan.
+Tujuan awal dari data ini adalah untuk mengeksplorasi dan mengklasifikasikan lagu berdasarkan fitur audio yang disediakan oleh Spotify. Data ini diambil menggunakan paket spotifyr, yang memungkinkan pengambilan metadata dan informasi audio dari lagu-lagu Spotify.
 
 ### Fitur
 - Analisis statistik data Spotify

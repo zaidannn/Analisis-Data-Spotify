@@ -5,25 +5,26 @@
 <h1 align="center">Analisis Data Spotify</h1>
 
 ---
+### Anggota Kelompok 
 
 <p align="center">
   <div style="display: table; margin: auto;">
     <table border="1">
       <tr>
         <th>Nama Anggota</th>
-        <th>Tahun</th>
+        <th>NIM</th>
       </tr>
       <tr>
-        <td>Zaidan</td>
-        <td>2021</td>
+        <td>Muhammad Zaidan Naufal Fikri</td>
+        <td>202110370311492</td>
       </tr>
       <tr>
-        <td>Hilmi</td>
-        <td>2022</td>
+        <td>Hadi Dwi Ardiansyah</td>
+        <td>202110370311492</td>
       </tr>
       <tr>
-        <td>Naufal</td>
-        <td>2023</td>
+        <td>Muhammad Mazen Fayiz Birizqie</td>
+        <td>202110370311492</td>
       </tr>
     </table>
   </div>

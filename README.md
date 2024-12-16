@@ -1,2 +1,9 @@
 # Analisis-Data-Spotify
-Tugas Mata Kuliah Analisis Big Data C
+
+# Proyek Anda
+
+<p align="center">
+  <img src="https://github.com/zaidannn/Analisis-Data-Spotify/blob/main/Images/Spotify.jpg" alt="Logo" width="200">
+</p>
+
+---

@@ -6,7 +6,8 @@
 
 ---
 <p align="center">
-  <table>
+<p align="center">
+  <table style="margin-left:auto; margin-right:auto;">
     <tr>
       <th>Nama Anggota</th>
       <th>Tahun</th>
@@ -16,7 +17,7 @@
       <td>2021</td>
     </tr>
     <tr>
-      <td>Hilmi</td>
+      <td>zdn</td>
       <td>2022</td>
     </tr>
     <tr>
@@ -25,7 +26,6 @@
     </tr>
   </table>
 </p>
-
 
 ### Deskripsi
 

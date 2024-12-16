@@ -8,8 +8,8 @@
 ### Anggota Kelompok 
 
 <p align="center">
-  <div style="display: table; margin: auto;">
-    <table border="1">
+  <div style="text-align: center;">
+    <table border="1" style="margin: auto;">
       <tr>
         <th>Nama Anggota</th>
         <th>NIM</th>
@@ -29,6 +29,7 @@
     </table>
   </div>
 </p>
+
 
 ### Deskripsi
 

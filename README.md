@@ -47,6 +47,12 @@ Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran
 - Visualisasi data tren musik
 - Interpretasi wawasan bisnis berdasarkan data
 
+### Alur Analisis Data
+1. Pertama, Kami melakukan gathering data dari dataset yang kami ambil dari https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/spotify_songs.csv
+2. Setelah data berhasil load, kami melakukan assessing data pada dataset untuk mendapatkan wawasan dari dataset. Terdapat 5 kesimpulan yang kami dapatkan dari assessing data, diantaranya :
+   - Tipe Data --> Terdapat kesalahan tipe data pada kolom track_album_release_date
+   - Missing Values --> Terdapat 5 baris missing values dimana 5 missing value
+
 ### Teknologi yang Digunakan
 - Python
 - Pandas

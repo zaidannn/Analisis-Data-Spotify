@@ -42,7 +42,7 @@ Data yang digunakan dalam proyek ini bertujuan untuk mengeksplorasi dan mengklas
 Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran menyeluruh tentang karakteristik audio dan informasi pendukung lainnya. Variabel-variabel tersebut mencakup nama lagu (<em>track_name</em>), nama artis (<em>artist_name</em>), ID lagu (<em>track_id</em>), nama album (<em>album_name</em>), dan berbagai fitur audio seperti <em>danceability</em>, <em>energy</em>, <em>valence</em>, <em>tempo</em>, dan <em>loudness</em>. Selain itu, dataset ini juga memuat informasi tentang genre dan tingkat popularitas lagu, memberikan konteks tambahan untuk analisis yang lebih dalam. Dengan kombinasi data ini, proyek bertujuan untuk menggali wawasan baru mengenai pola dan tren musik, mengklasifikasikan lagu berdasarkan karakteristik uniknya, serta memberikan interpretasi yang relevan terhadap industri musik modern.
 </p>
 
-## Variabel dan Deskripsi Dataset
+### Variabel dan Deskripsi Dataset
 
 | **Variabel**              | **DType**   | **Deskripsi**                                                                                           |
 |---------------------------|-------------|---------------------------------------------------------------------------------------------------------|
@@ -80,7 +80,7 @@ Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran
 1. Pertama, Kami melakukan gathering data dari dataset yang kami ambil dari https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/spotify_songs.csv
 2. Setelah data berhasil load, kami melakukan assessing data pada dataset untuk mendapatkan wawasan dari dataset. Terdapat 5 kesimpulan yang kami dapatkan dari assessing data, diantaranya :
    
-## Data Assessing & Cleaning Summary
+### Data Assessing Summary
 
 | **Kategori**       | **Detail**                                                                                 |
 |---------------------|-------------------------------------------------------------------------------------------|
@@ -89,6 +89,18 @@ Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran
 | **Duplikasi Data**  | Tidak terdapat duplikasi data.                                                            |
 | **Inaccurate Data** | Pada kolom `track_name`, `track_artist`, dan `track_album_name` terdapat nilai yang berakhiran angka. |
 | **Emoticon**        | Terdapat penggunaan emote pada kolom `playlist_name`.                                     |
+
+3. Dari hasil assessing data yang kami temukan, selanjutnya kami melakukan cleaning data
+### Cleaning data Summary
+
+| **Variabel**               | **Deskripsi**                        | **Tipe Data** | **Keterangan & Distribusi**                                                                                     |
+|----------------------------|--------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------|
+| `track_name`               | Nama lagu                           | String        | Beberapa nilai missing telah di-drop, hanya menyisakan lagu dengan nama yang valid. Terdapat beberapa nilai berupa angka yang telah diimputasi dan dropout. |
+| `track_artist`             | Nama artis                          | String        | Nilai missing telah di-drop. Biasanya terdiri dari nama tunggal atau kolaborasi beberapa artis.                |
+| `track_album_name`         | Nama album                          | String        | Beberapa nilai missing telah di-drop. Beberapa nama album hanya berupa angka telah diidentifikasi dan sebagian besar dihapus. |
+| `track_album_release_date` | Tanggal rilis album                 | DateTime      | Format yang tidak konsisten telah dibersihkan. Tahun saja diubah menjadi `{tahun}-01-01`, bulan-tahun diubah menjadi `{tahun}-{bulan}-01`. |
+| `playlist_name`            | Nama playlist tempat lagu berada    | String        | Terdapat penggunaan emotikon yang perlu dibersihkan untuk menjaga konsistensi data.                           |
+
 
 ### Teknologi yang Digunakan
 - Python

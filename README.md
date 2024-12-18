@@ -42,6 +42,35 @@ Data yang digunakan dalam proyek ini bertujuan untuk mengeksplorasi dan mengklas
 Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran menyeluruh tentang karakteristik audio dan informasi pendukung lainnya. Variabel-variabel tersebut mencakup nama lagu (<em>track_name</em>), nama artis (<em>artist_name</em>), ID lagu (<em>track_id</em>), nama album (<em>album_name</em>), dan berbagai fitur audio seperti <em>danceability</em>, <em>energy</em>, <em>valence</em>, <em>tempo</em>, dan <em>loudness</em>. Selain itu, dataset ini juga memuat informasi tentang genre dan tingkat popularitas lagu, memberikan konteks tambahan untuk analisis yang lebih dalam. Dengan kombinasi data ini, proyek bertujuan untuk menggali wawasan baru mengenai pola dan tren musik, mengklasifikasikan lagu berdasarkan karakteristik uniknya, serta memberikan interpretasi yang relevan terhadap industri musik modern.
 </p>
 
+## Variabel dan Deskripsi Dataset
+
+| **Variabel**              | **DType**   | **Deskripsi**                                                                                           |
+|---------------------------|-------------|---------------------------------------------------------------------------------------------------------|
+| `track_id`                | karakter    | ID unik lagu.                                                                                          |
+| `track_name`              | karakter    | Nama lagu.                                                                                            |
+| `track_artist`            | karakter    | Artis lagu.                                                                                           |
+| `track_popularity`        | integer     | Popularitas lagu (0-100), semakin tinggi nilainya, semakin populer lagu tersebut.                      |
+| `track_album_id`          | karakter    | ID unik album.                                                                                        |
+| `track_album_name`        | karakter    | Nama album lagu.                                                                                      |
+| `track_album_release_date`| karakter    | Tanggal rilis album.                                                                                  |
+| `playlist_name`           | karakter    | Nama playlist.                                                                                        |
+| `playlist_id`             | karakter    | ID playlist.                                                                                          |
+| `playlist_genre`          | karakter    | Genre playlist.                                                                                       |
+| `playlist_subgenre`       | karakter    | Subgenre playlist.                                                                                    |
+| `danceability`            | float       | Mengukur kecocokan lagu untuk menari berdasarkan elemen musik seperti tempo, ritme, dan kekuatan ketukan (0.0 = tidak cocok, 1.0 = sangat cocok). |
+| `energy`                  | float       | Menggambarkan intensitas dan aktivitas lagu (nilai tinggi = lagu intens seperti metal, nilai rendah = lagu tenang seperti musik klasik). |
+| `key`                     | integer     | Kunci umum lagu (0 = C, 1 = C♯/D♭, 2 = D, dst).                                                       |
+| `loudness`                | float       | Tingkat kerasnya lagu dalam desibel (dB), dengan rentang antara -60 hingga 0 dB.                       |
+| `mode`                    | integer     | Mode skala lagu (1 = mayor, 0 = minor).                                                               |
+| `speechiness`             | float       | Mengukur kehadiran kata-kata yang diucapkan (1.0 = banyak berbicara, seperti talk show atau buku audio).|
+| `acousticness`            | float       | Kepercayaan apakah lagu bersifat akustik (0.0 = tidak akustik, 1.0 = sangat akustik).                 |
+| `instrumentalness`        | float       | Memprediksi apakah lagu tidak mengandung vokal (nilai >0.5 = lagu instrumental).                      |
+| `liveness`                | float       | Mengukur kehadiran audiens dalam rekaman (nilai >0.8 = kemungkinan rekaman langsung).                  |
+| `valence`                 | float       | Mengukur sejauh mana lagu menyampaikan perasaan positif (nilai tinggi = ceria, nilai rendah = murung). |
+| `tempo`                   | float       | Tempo lagu dalam ketukan per menit (BPM).                                                             |
+| `duration_ms`             | integer     | Durasi lagu dalam milidetik.                                                                          |
+
+
 ### Fitur
 - Analisis statistik data Spotify
 - Visualisasi data tren musik

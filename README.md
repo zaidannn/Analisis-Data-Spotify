@@ -102,6 +102,21 @@ https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/sp
 | `track_album_release_date` | Tanggal rilis album                 | DateTime      | Format yang tidak konsisten telah dibersihkan. Tahun saja diubah menjadi `{tahun}-01-01`, bulan-tahun diubah menjadi `{tahun}-{bulan}-01`. |
 | `playlist_name`            | Nama playlist tempat lagu berada    | String        | Terdapat penggunaan emotikon yang perlu dibersihkan untuk menjaga konsistensi data.                           |
 
+## 4. Setelah melakukan cleaning pada data, selanjutnya kami mengeskplorasi dataset untuk mengaanalisis informasi yang terdapat pada dataset. 
+
+## Ringkasan Dataset
+
+| **Atribut**               | **Deskripsi**                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------|
+| **Total Lagu**            | 32.780                                                                                     |
+| **Rentang Popularitas**   | 0 - 100                                                                                    |
+| **Rata-rata Popularitas** | 42,48                                                                                      |
+| **Standar Deviasi Popularitas** | 24,98                                                                                |
+| **Rentang Durasi Lagu**   | 0,07 menit (terpendek) - 8,63 menit (terpanjang)                                           |
+| **Rata-rata Durasi Lagu** | 3,76 menit                                                                                 |
+
+Dataset ini menunjukkan variasi yang signifikan dalam popularitas dan durasi lagu, sehingga menawarkan beragam karakteristik musik untuk dianalisis.
+
 
 ### Teknologi yang Digunakan
 - Python

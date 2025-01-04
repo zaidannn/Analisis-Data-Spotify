@@ -191,14 +191,14 @@ pada hasil data dan visualisasi pada file ipynb disimpulkan bahwa playlist cende
 - Pengguna cenderung membuat playlist dengan genre yang serupa daripada mencampur berbagai genre.
 - Lagu yang dirilis setelah tahun 2010 cenderung lebih populer dibandingkan lagu-lagu yang lebih lama.
 
-Implikasi bagi Konsumen
+### Implikasi bagi Konsumen
 - Genre Pop tetap menjadi pilihan populer bagi konsumen yang mencari musik yang mudah didengarkan.
 - Genre Latin semakin diminati, dan konsumen mungkin ingin mengeksplorasi genre ini lebih jauh.
 - Fitur audio dapat menjadi pertimbangan bagi konsumen dalam memilih lagu, tergantung preferensi mereka.
 - Artis dan album yang sering muncul di playlist dapat menjadi indikator popularitas dan kualitas bagi konsumen.
 - Konsumen dapat membuat playlist dengan genre serupa sesuai preferensi mereka.
   
-Keterbatasan dan Pengembangan
+### Keterbatasan dan Pengembangan
 - Dataset terbatas pada lagu-lagu di Spotify, dan tidak mewakili seluruh industri musik.
 - Analisis tidak mempertimbangkan faktor-faktor lain yang dapat memengaruhi popularitas lagu, seperti pemasaran dan promosi.
 - Analisis dapat dikembangkan dengan menggunakan dataset yang lebih besar dan mencakup data dari platform musik lain.

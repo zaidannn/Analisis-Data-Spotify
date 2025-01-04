@@ -117,6 +117,12 @@ https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/sp
 
 Dataset ini menunjukkan variasi yang signifikan dalam popularitas dan durasi lagu, sehingga menawarkan beragam karakteristik musik untuk dianalisis.
 
+### Pertama, kami coba lihat genre playlist yang paling populer
+genre playlist yang paling populer adalah genre edm dan Genre EDM relatif lebih baru dibandingkan dengan genre lainnya, meskipun edm paling populer, lagu-lagu dalam genre pop dan latin memiliki popularitas yang lebih tinggi. Genre R&B dan Rock memiliki sejarah yang panjang, dengan album-album yang dirilis sejak tahun 1957.
+
+### Selanjutnya, 🤔 bagaimana dengan performa popularitas lagu disetiap tahunnya❓
+berdasarkan hasil analisis, tren popularitas lagu per tahun, terlihat adanya fluktuasi. Meskipun tidak ada penurunan tren yang signifikan secara konsisten, terdapat periode-periode tertentu di mana rata-rata popularitas mengalami penurunan.
+
 
 ### Teknologi yang Digunakan
 - Python

@@ -144,33 +144,33 @@ genre paling populer di 5 tahun awal r&b dan di 5 tahun terakhir terdapat r&b da
 ### 🤔 Siapa artis atau album yang paling banyak dimasukkan ke playlist❓
 ## Artis Teratas
 
-| **Peringkat** | **Artis**                  | **Jumlah Penampilan**              |
-|---------------|----------------------------|-------------------------------------|
-| 1             | Martin Garrix             | Lebih dari 160 kali                |
-| 2             | Queen                     | Sangat tinggi, di bawah Martin Garrix |
-| 3             | The Chainsmokers          | Signifikan                         |
-| 4             | David Guetta              | Hampir sama dengan The Chainsmokers |
-| 5             | Don Omar                  | Sedikit lebih rendah dari David Guetta |
-| 6             | Drake                     | Masih tinggi                       |
-| 7             | Dimitri Vegas & Like Mike | -                                   |
-| 8             | Calvin Harris             | -                                   |
-| 9             | Hardwell                  | -                                   |
-| 10            | Kygo                      | -                                   |
+| **Peringkat** | **Artis**                  |
+|---------------|----------------------------|
+| 1             | Martin Garrix             |
+| 2             | Queen                     |
+| 3             | The Chainsmokers          |
+| 4             | David Guetta              |
+| 5             | Don Omar                  |
+| 6             | Drake                     | 
+| 7             | Dimitri Vegas & Like Mike | 
+| 8             | Calvin Harris             |                          
+| 9             | Hardwell                  | 
+| 10            | Kygo                      | 
 
 ## Album Teratas
 
-| **Peringkat** | **Album**                    | **Jumlah Penampilan**              |
-|---------------|------------------------------|-------------------------------------|
-| 1             | Greatest Hits               | Lebih dari 130 kali                |
-| 2             | Ultimate Freestyle Mega Mix | Sekitar 40 kali                    |
-| 3             | Gold                        | Sedikit lebih rendah dari posisi kedua |
-| 4             | Malibu                      | Hampir sama dengan "Gold"          |
-| 5             | Rock & Rios (Remastered)    | Cukup kompetitif                   |
-| 6             | X 100PRE                    | -                                   |
-| 7             | Appetite For Destruction    | -                                   |
-| 8             | Forever                     | -                                   |
-| 9             | Views                       | -                                   |
-| 10            | Hollywood's Bleeding        | -                                   |
+| **Peringkat** | **Album**                    | 
+|---------------|------------------------------|
+| 1             | Greatest Hits               | 
+| 2             | Ultimate Freestyle Mega Mix | 
+| 3             | Gold                        | 
+| 4             | Malibu                      | 
+| 5             | Rock & Rios (Remastered)    | 
+| 6             | X 100PRE                    | 
+| 7             | Appetite For Destruction    |
+| 8             | Forever                     |
+| 9             | Views                       | 
+| 10            | Hollywood's Bleeding        | 
 
 Tabel ini memberikan gambaran tentang artis dan album dengan jumlah penampilan tertinggi dalam dataset.
 

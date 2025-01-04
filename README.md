@@ -210,7 +210,5 @@ Keterbatasan dan Pengembangan
 - Matplotlib
 - Seaborn
 
-## Visualisasi data
-1. Dapat diakses pada file ipynb:
-   ```bash
-   https://github.com/zaidannn/Analisis-Data-Spotify/blob/main/Code/Tugas_Akhir_v2.ipynb
+## Visualisasi Data
+Dapat diakses pada file [Tugas_Akhir_v2.ipynb](https://github.com/zaidannn/Analisis-Data-Spotify/blob/main/Code/Tugas_Akhir_v2.ipynb)

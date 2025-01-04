@@ -34,7 +34,7 @@
 ### Deskripsi
 
 <p align="justify">
-Data yang digunakan dalam proyek ini bertujuan untuk mengeksplorasi dan mengklasifikasikan lagu berdasarkan fitur audio yang disediakan oleh Spotify. Pengumpulan data dilakukan dengan memanfaatkan <strong>Spotify API</strong> melalui paket <em>spotifyr</em>, yang memungkinkan pengambilan metadata dan informasi audio dari berbagai lagu di platform Spotify. Dataset ini merupakan bagian dari proyek <strong>Tidytuesday</strong> yang dirilis pada 21 Januari 2020, dan mencakup sekitar 16.000 lagu. 
+Data yang digunakan dalam proyek ini bertujuan untuk mengeksplorasi dataset Spotify. Pengumpulan data dilakukan dengan memanfaatkan <strong>Spotify API</strong> melalui paket <em>spotifyr</em>, yang memungkinkan pengambilan metadata dan informasi audio dari berbagai lagu di platform Spotify. Dataset ini merupakan bagian dari proyek <strong>Tidytuesday</strong> yang dirilis pada 21 Januari 2020, dan mencakup sekitar 32.780 lagu. 
 </p>
 <p align="justify">Dataset dapat diakses di link berikut : https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/spotify_songs.csv </p>
 
@@ -72,14 +72,14 @@ Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran
 
 
 ### Fitur
-- Analisis statistik data Spotify
+- Analisis statistik lagu pada data Spotify
 - Visualisasi data tren musik
-- Interpretasi wawasan bisnis berdasarkan data
+- Interpretasi wawasan berdasarkan data
 
 ### Alur Analisis Data
 ## 1. Pertama, Kami melakukan gathering data dari dataset yang kami ambil dari 
 https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/spotify_songs.csv
-## 2. Setelah data berhasil load, kami melakukan assessing data pada dataset untuk mendapatkan wawasan dari dataset. Terdapat 5 kesimpulan yang kami dapatkan dari assessing data, diantaranya :
+## 2. Setelah data berhasil di load, kami melakukan assessing data pada dataset untuk mendapatkan informasi yang ada dari dataset. Terdapat 5 kesimpulan yang kami dapatkan dari assessing data, diantaranya :
    
 ### Data Assessing Summary
 

@@ -70,11 +70,15 @@ Setiap lagu dalam dataset dilengkapi dengan 23 variabel yang memberikan gambaran
 | `tempo`                   | float       | Tempo lagu dalam ketukan per menit (BPM).                                                             |
 | `duration_ms`             | integer     | Durasi lagu dalam milidetik.                                                                          |
 
+### Berdasarkan deskripsi dataset, kami penyusun beberapa pernyataan masalah diantaranya :
 
-### Fitur
-- Analisis statistik lagu pada data Spotify
-- Visualisasi data tren musik
-- Interpretasi wawasan berdasarkan data
+1. Genre playlist apa yang paling populer?
+2. Bagaimana performa popularitas lagu di setiap tahunnya, baik secara umum maupun untuk setiap genre?
+3. Genre apa yang paling populer di 5 tahun awal dan 5 tahun terakhir?
+4. Bagaimana fitur audio (danceability, tempo, valence, energy) memengaruhi popularitas lagu di berbagai genre?
+5. Siapa artis atau album yang paling banyak dimasukkan ke playlist?
+6. Bagaimana perilaku pengguna dalam membuat playlist (genre serupa vs. genre campuran)?
+7. Bagaimana distribusi popularitas lagu berdasarkan tahun rilis?
 
 ### Alur Analisis Data
 ## 1. Pertama, Kami melakukan gathering data dari dataset yang kami ambil dari 

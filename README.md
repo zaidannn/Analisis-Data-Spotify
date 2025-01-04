@@ -210,7 +210,7 @@ Keterbatasan dan Pengembangan
 - Matplotlib
 - Seaborn
 
-### Akses
-1. Clone repositori ini:
+## Visualisasi data
+1. Dapat diakses pada file ipynb:
    ```bash
-   git clone https://github.com/zaidannn/Analisis-Data-Spotify.git
+   https://github.com/zaidannn/Analisis-Data-Spotify/blob/main/Code/Tugas_Akhir_v2.ipynb

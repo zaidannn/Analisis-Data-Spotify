@@ -130,7 +130,8 @@ berdasarkan hasil analisis, tren popularitas lagu per tahun, terlihat adanya flu
 ### 🤔 Bagaimana dengan performa popularitas lagu disetiap tahunnya untuk setiap genre❓
 Dan dari tahun ke tahun grafik menunjukan pola yang semakin lama rata-rata popularitasnya memadat direntang 60-30, hal ini menunjukan bahwa dari tahun ke tahun tren musik akan semakin beragam dan kompetitif. Popularitas lagu tidak lagi didominasi oleh satu atau dua genre saja, tetapi tersebar lebih merata di berbagai genre. Meskipun genre tertentu mungkin masih mendominasi secara keseluruhan, perbedaan popularitas antar genre cenderung berkurang seiring waktu, yang menunjukkan pasar musik yang lebih beragam.
 
-### 🤔Genre manakah yang paling populer di 5 tahun awal dan 5 tahun terakhir❓genre paling populer di 5 tahun awal r&b dan di 5 tahun terakhir terdapat r&b dan pop, genre rap dan pop muncul di 5 tahun terakhir dan tidak ada di 5 tahun awal. Hal ini menandakan tentang pergeseran tren musik dari waktu ke waktu. Serta penurunan popularitas pada genre rock, dimana genre rock lebih populer di 5 tahun awal dibanding 5 tahun terakhir.
+### 🤔Genre manakah yang paling populer di 5 tahun awal dan 5 tahun terakhir❓
+genre paling populer di 5 tahun awal r&b dan di 5 tahun terakhir terdapat r&b dan pop, genre rap dan pop muncul di 5 tahun terakhir dan tidak ada di 5 tahun awal. Hal ini menandakan tentang pergeseran tren musik dari waktu ke waktu. Serta penurunan popularitas pada genre rock, dimana genre rock lebih populer di 5 tahun awal dibanding 5 tahun terakhir.
 
 ### 🤔 Bagaimana fitur audio (dancebility, tempo, valensi, energi) memengaruhi popularitas lagu (track_popularity) dalam berbagai playlist_genre❓
 1. Musik EDM cenderung memiliki energi tinggi dan tempo cepat, tetapi popularitasnya lebih rendah dibandingkan genre lain seperti latin atau pop.
